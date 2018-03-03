@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Taxi\Taxi\bin\Debug\Taxi.exe.config
+C:\Users\User\Desktop\Taxi\Taxi\bin\Debug\Taxi.exe
+C:\Users\User\Desktop\Taxi\Taxi\bin\Debug\Taxi.pdb
+C:\Users\User\Desktop\Taxi\Taxi\obj\Debug\Taxi.Properties.Resources.resources
+C:\Users\User\Desktop\Taxi\Taxi\obj\Debug\Taxi.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Taxi\Taxi\obj\Debug\Taxi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Taxi\Taxi\obj\Debug\Taxi.exe
+C:\Users\User\Desktop\Taxi\Taxi\obj\Debug\Taxi.pdb
